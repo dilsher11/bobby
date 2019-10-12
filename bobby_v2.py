@@ -1,6 +1,5 @@
 import sys, requests, csv
 from bs4 import BeautifulSoup as bs
-from tqdm import tqdm
 
 """
 -------------------------------------------------------------------------------
