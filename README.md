@@ -1,11 +1,11 @@
 # bobby
 Biblio extractor for PubMed: This script will extract following using user supplied PMID:
--Title
--Abstract
--Authors
--Affiliations
--Citation Info
--URL
+- Title
+- Abstract
+- Authors
+- Affiliations
+- Citation Info
+- URL
 
 Disclaimer: This is a web scraping script for PubMed. Only for educational purposes. Kindly do not exploit. if you want to extract data, PubMed provides Restful APIs, use that.
 
